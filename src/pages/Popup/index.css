@@ -1,0 +1,15 @@
+body {
+    @apply w-500 h-auto bg-black text-white
+}
+
+h2 {
+    @apply text-3xl
+}
+
+h3 {
+    @apply text-xl
+}
+
+p {
+    @apply text-lg
+}
